@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680539009 source:c:\users\usuario\documents\baskhara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
